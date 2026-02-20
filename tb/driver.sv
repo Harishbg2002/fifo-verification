@@ -1,3 +1,1 @@
-if (wr_en && !full) begin
-  fifo.push(din);
-end
+$display("WRITE: %0h", din);
