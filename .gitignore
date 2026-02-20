@@ -1,0 +1,14 @@
+# Simulation outputs
+sim/
+*.log
+*.vcd
+*.fsdb
+
+# Tool databases
+work/
+INCA_libs/
+
+# Editor junk
+*.swp
+*.bak
+*.tmp
